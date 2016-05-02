@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/wordpress":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/wordpress","hostpath":"/Users/Kate/Sites/wordpress","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Kate/Sites/wordpress","disabled":false}}}
